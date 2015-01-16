@@ -1,7 +1,7 @@
 # hello-world
 Learning again ...
 ## this should be a smaller header ... I am learning again....
-###yet a smaller heading .... still learning
+### yet a smaller heading .... still learning
 
 * can you
 * teach an old
